@@ -1,0 +1,22 @@
+{
+  "profile": [
+    {
+      "pid": "1",
+      "title": "Iphone",
+      "brand": "Apple",
+      "price": "100000",
+      "description": "dfghjkl",
+      "image": "https://m.media-amazon.com/images/I/61l9ppRIiqL._AC_UF1000,1000_QL80_.jpg",
+      "id": 1
+    },
+    {
+      "pid": "2",
+      "title": "phone",
+      "brand": "oppo",
+      "price": "20000",
+      "description": "fhbhwj",
+      "image": "https://m.media-amazon.com/images/I/61l9ppRIiqL._AC_UF1000,1000_QL80_.jpg",
+      "id": 2
+    }
+  ]
+}
