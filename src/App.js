@@ -10,7 +10,7 @@ import Forms from './components/Forms';
 function App() {
   return (
     <>
-    <div className='container-fluid'>
+    <div className='container-fluid sample'>
       <div className='row'>
     <Fsearch/>
     </div>
